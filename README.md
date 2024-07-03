@@ -13,7 +13,6 @@ pip install discord.py
 - Configure o arquivo para armazenar seu token do bot:
 ```
 DISCORD_TOKEN=seu_token_aqui
-
 ```
 
 ## ⚙️ Funcionalidades
