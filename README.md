@@ -23,10 +23,10 @@ DISCORD_TOKEN=seu_token_aqui
 
 ### Autenticação de Novos Membros:
 
-Quando um novo membro entra no servidor, o bot atribui o cargo Pretendente a ele e envia uma mensagem pedindo o e-mail institucional.
+- Quando um novo membro entra no servidor, o bot atribui o cargo Pretendente a ele e envia uma mensagem pedindo o e-mail institucional.
 
-O membro tem até 5 tentativas para fornecer um e-mail válido.
+- O membro tem até 5 tentativas para fornecer um e-mail válido.
 
-Se o e-mail for válido, o bot atribui o cargo apropriado (Aluno ou Professor) e remove o cargo Pretendente.
+- Se o e-mail for válido, o bot atribui o cargo apropriado (Aluno ou Professor) e remove o cargo Pretendente.
 
-Se o e-mail não for válido ou o membro exceder o número de tentativas ou o tempo limite, o bot banirá o membro do servidor.
+- Se o e-mail não for válido ou o membro exceder o número de tentativas ou o tempo limite, o bot banirá o membro do servidor.
